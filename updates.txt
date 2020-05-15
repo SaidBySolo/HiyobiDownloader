@@ -1,12 +1,27 @@
 ;aiu;
 
+[General]
+LicenseCheckFlags = FailOnServerError|FailOnWrongRetCode
+
+[2020-05-16]
+Name = HiyobiDownloader
+ProductVersion = 1.1
+URL = https://github.com/ReDesignedJP/HiyobiDownloader/raw/master/HiyobiDownloader.exe
+Size = 9192404
+SHA256 = 101B7F2587FB81B2DE2B8856E3DD0FA83891AB2E630E78D3D7E331E54B93B4EF
+MD5 = 7ea012b1788677aff9ff5e4f24979365
+ServerFileName = HiyobiDownloader.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Celica\HiyobiDownloader\Version
+Version = 1.1
+
 [Update]
 Name = HiyobiDownloader
 ProductVersion = 1.0.1.0
 URL = https://github.com/ReDesignedJP/HiyobiDownloader/raw/master/HiyobiDownloader.exe
-Size = 9191922
-SHA256 = A81F0AA8DE5750BD244DCEE361345C70601E65D741334A48D3650E6B9CB68ECD
-MD5 = 596d1c6b119837da34e7778b965c1e0a
+Size = 9192404
+SHA256 = 101B7F2587FB81B2DE2B8856E3DD0FA83891AB2E630E78D3D7E331E54B93B4EF
+MD5 = 7ea012b1788677aff9ff5e4f24979365
 ServerFileName = HiyobiDownloader.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Celica\HiyobiDownloader\Version
