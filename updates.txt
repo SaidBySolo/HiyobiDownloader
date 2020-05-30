@@ -3,13 +3,27 @@
 [General]
 LicenseCheckFlags = FailOnServerError|FailOnWrongRetCode
 
+[2020-05-30V1.2.0]
+Name = HiyobiDownloader
+ProductVersion = 1.2.0.0
+URL = https://github.com/ReDesignedJP/HiyobiDownloader/raw/master/HiyobiDownloader.exe
+Size = 9942873
+ReleaseDate = 30/05/2020
+SHA256 = 5BCC4E517CA6AB6E3F1E2319FE567E939CB36C4E75C1B008D0A65D7001203E11
+MD5 = 136a7d2b613a89b464b21a8f96f0b35c
+ServerFileName = HiyobiDownloader.exe
+RegistryKey = HKUD\Software\Celica\HiyobiDownloader\Version
+Version = 1.2.0.0
+Feature = Added Built-in Reader
+Enhancement = Changed 'Download' Button to GetById //this will now displays Info Form
+
 [2020-05-16V1.1.1]
 Name = HiyobiDownloader
 ProductVersion = 1.1.1.0
 URL = https://github.com/ReDesignedJP/HiyobiDownloader/raw/master/HiyobiDownloader.exe
-Size = 9193635
-SHA256 = 1EF1F2CD07E8403EFEFE455E31E91EF8E890C1C9F7478857D74D390603EDDE2B
-MD5 = ad3813e6c793544f170a64be5d0dc6cd
+Size = 9942873
+SHA256 = 5BCC4E517CA6AB6E3F1E2319FE567E939CB36C4E75C1B008D0A65D7001203E11
+MD5 = 136a7d2b613a89b464b21a8f96f0b35c
 ServerFileName = HiyobiDownloader.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Celica\HiyobiDownloader\Version
@@ -20,10 +34,22 @@ BugFix = BulkDownload dosen't download some readers
 Name = HiyobiDownloader
 ProductVersion = 1.1
 URL = https://github.com/ReDesignedJP/HiyobiDownloader/raw/master/HiyobiDownloader.exe
-Size = 9193635
-SHA256 = 1EF1F2CD07E8403EFEFE455E31E91EF8E890C1C9F7478857D74D390603EDDE2B
-MD5 = ad3813e6c793544f170a64be5d0dc6cd
+Size = 9942873
+SHA256 = 5BCC4E517CA6AB6E3F1E2319FE567E939CB36C4E75C1B008D0A65D7001203E11
+MD5 = 136a7d2b613a89b464b21a8f96f0b35c
 ServerFileName = HiyobiDownloader.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Celica\HiyobiDownloader\Version
 Version = 1.1
+
+[Update]
+Name = HiyobiDownloader
+ProductVersion = 1.0.1.0
+URL = https://github.com/ReDesignedJP/HiyobiDownloader/raw/master/HiyobiDownloader.exe
+Size = 9942873
+SHA256 = 5BCC4E517CA6AB6E3F1E2319FE567E939CB36C4E75C1B008D0A65D7001203E11
+MD5 = 136a7d2b613a89b464b21a8f96f0b35c
+ServerFileName = HiyobiDownloader.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Celica\HiyobiDownloader\Version
+Version = 1.0.1.0
