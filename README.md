@@ -7,4 +7,4 @@
 use at your own risk
 
 
-P.S. 대장님 항상 감사합니다.
+Discord: ReDesigned#0291
